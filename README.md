@@ -52,10 +52,11 @@ Para isso, vamos ter rotas na nossa aplicação que vamos acessar para que açõ
 
 Vamos supor que o endereço do nosso sistema seja: `http://curso-golang.com`
 
-Nesse endereço, pdoemos ter várias rotas:
+Nesse endereço, pdoemos ter várias rotas e ainda usando vários métodos HTTP diferentes:
 
-- http://curso-golang.com/students
-- http://curso-golang.com/students/<id>
+- GET http://curso-golang.com/students
+- GET http://curso-golang.com/students/:id
+- POST http://curso-golang.com/students/:id
 
 E cada uma delas vai nos retornar certas informações. E isso quem define somos nós, quando estivermos criando o código dessa API.
 
