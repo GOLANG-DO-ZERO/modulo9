@@ -1,5 +1,3 @@
-![image](https://github.com/GOLANG-DO-ZERO/modulo9/assets/167575353/7c6f3b35-e666-4de5-9ba5-4fedb9f3a23d)# modulo9
-
 Antes de criarmos uma API de fato, é importante entender o que é uma API, conceitos que serão utilizados e porque ela é tão utilizada.
 
 ## O que significa a sigla API?
